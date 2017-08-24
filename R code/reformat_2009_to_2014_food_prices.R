@@ -1,5 +1,5 @@
 ## Load Library
-library(tabulizer) ; library(dplyr) ; library(tidyr)
+library(tabulizer) ; library(dplyr)
 
 # Pull pdfs from directory and transform into a dataframe to easily index each .pdf file
 file <- data.frame(pdf = unlist(list.files()))
