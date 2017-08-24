@@ -1,3 +1,9 @@
+############################################################################
+# Scripts to import data from `.pdf` files into R and reformat  into `.csv`#
+# Date created: 22nd August, 2017                                          #
+############################################################################
+
+
 ## Load Library
 library(tabulizer) ; library(dplyr)
 
