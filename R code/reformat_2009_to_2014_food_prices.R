@@ -43,3 +43,10 @@ for (i in seq_along(file$pdf)){
   
   write.csv(a, file_name, row.names = FALSE)
 }
+
+
+
+### After runing sequence, add date to pdf with letter (I) instead of digit (1) date ###
+file <- read.csv("Week1-JANUARY-2011.csv")
+file$date <- as.Date("JANUARY-1-2011", format = "%B-%d-%Y")
+write.csv(file, "Week1-JANUARY-2011.csv", row.names = FALSE)
