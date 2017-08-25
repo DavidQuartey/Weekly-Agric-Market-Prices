@@ -108,6 +108,7 @@ for (i in seq_along(file)){
 
 
 ## Download 2011 food prices ##
+
 file <- c("http://mofa.gov.gh/site/wp-content/uploads/2012/05/Week1-JANUARY-2011.pdf", 
 "http://mofa.gov.gh/site/wp-content/uploads/2012/05/Week2-JANUARY-2011.pdf", 
 "http://mofa.gov.gh/site/wp-content/uploads/2012/05/Week3-JANUARY-2011.pdf", 
@@ -171,6 +172,7 @@ for (i in seq_along(file)){
 
 
 ## Download 2010 food prices ##
+
 file <- c("http://mofa.gov.gh/site/wp-content/uploads/2012/05/weeK1-JANUARY-2010.pdf", 
   "http://mofa.gov.gh/site/wp-content/uploads/2012/05/weeK2-JANUARY-2010.pdf", 
   "http://mofa.gov.gh/site/wp-content/uploads/2012/05/weeK3-JANUARY-2010.pdf", 
@@ -232,6 +234,7 @@ for (i in seq_along(file)){
 
 
 ## Download 2009 food prices ##
+
 file <- c("http://mofa.gov.gh/site/wp-content/uploads/2012/05/weeK1-JANUARY-2009.pdf", 
 "http://mofa.gov.gh/site/wp-content/uploads/2012/05/weeK2-JANUARY-2009.pdf", 
 "http://mofa.gov.gh/site/wp-content/uploads/2012/05/weeK3-JANUARY-2009.pdf", 
