@@ -1,10 +1,10 @@
-## Weekly Agricultural Market Prices in Ghana
+# Weekly Agricultural Market Prices in Ghana
 
 This repo contains weekly market prices (2009 :arrow_right: 2014) from the Ministry of Agricultural website (mofa.gov.gh).
 
 Since all the files are `.pdf`, I transformed them into `.csv` files to make it easy for anyone to import into any statistical program to carry out their analysis. :thumbsup:
 
-# Download 📩
+## Download 📩
 Download all 2009 Data by clicking <a href="">here<a/>
 
 Download all 2010 Data by clicking <a href="">here<a/>
