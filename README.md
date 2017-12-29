@@ -1,4 +1,4 @@
-## Weekly Agricultural Market Prices in Ghana
+## Weekly Agric Market Prices in Ghana
 This repo contains weekly market prices (2009 :arrow_right: 2014) from the Ministry of Agricultural website (mofa.gov.gh).
 
 ## Download 📩
