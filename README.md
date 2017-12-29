@@ -2,7 +2,7 @@
 This repo contains weekly market prices (2009 :arrow_right: 2014) from the Ministry of Agricultural website (mofa.gov.gh).
 
 **Download** 📩  
-:computer_mouse: Click on the the year to **download** the respective Weekly Market Prices:
+:computer_mouse: Click on the year to **download** its respective Weekly Market Price:
 <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DavidQuartey/Weekly-Agric-Market-Prices/tree/master/Data/2009">2009<a/>, <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DavidQuartey/Weekly-Agric-Market-Prices/tree/master/Data/2010">2010</a>, <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DavidQuartey/Weekly-Agric-Market-Prices/tree/master/Data/2011">2011</a>, <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DavidQuartey/Weekly-Agric-Market-Prices/tree/master/Data/2012">2012</a>, <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DavidQuartey/Weekly-Agric-Market-Prices/tree/master/Data/2013">2013</a> and <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DavidQuartey/Weekly-Agric-Market-Prices/tree/master/Data/2014">2014</a>.
 
 **Process**  
